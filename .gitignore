@@ -1,0 +1,9 @@
+.venv/
+venv/
+.vscode/
+
+project.ipynb
+updated_sales_data.csv
+
+__pycache__/
+*.pyc
